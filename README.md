@@ -9,8 +9,8 @@ In purpose of smooth scrolling, pull to refresh and infinite loading.
 
 ## Change Logs
 - v2.0.0
-  - for Vue.js 2.0 [sample code](https://github.com/wangdahoo/vue-scroller/blob/v2/dist/example/index.html)
-  - remove $scroller accessor, now you can only get scroller instance with this.$refs.yourScrollerName by vue 2.x 's ref tag.
+  - for Vue.js 2.0 [sample code](https://github.com/wangdahoo/vue-scroller/blob/master/dist/example/index.html)
+  - remove $scroller accessor, now you can only get scroller delegate instance with this.$refs.yourScrollerName by vue 2.x 's ref tag.
 - v0.3.9
 add getPosition method for scroller instance.
 - v0.3.8
