@@ -25,7 +25,8 @@ change required property 'delegate-id' to non-required.
 support multi scrollers in one page.
 
 ## How To Use
-> a vue 1.0 instruction, for vue 2.0, please refer to the sample code in change logs.
+A instruction for vue 1.0, please refer to the sample code above in change logs to if you're using vue 2.0.
+
 #### Step 1: create vue project and install vue-scroller via npm. (we use vue webpack-simple template here)
 ```bash
 $ vue init webpack-simple#1.0 my-project
